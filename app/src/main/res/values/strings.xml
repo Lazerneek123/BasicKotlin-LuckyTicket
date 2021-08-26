@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasicKotlinLuckyTicket</string>
+    <string name="textButton">Check ticket</string>
+    <string name="iconticket">iconticket</string>
+    <string name="icongray">icongray</string>
+</resources>
+    <!--by Lazerneek / Barmutov Roman-->
